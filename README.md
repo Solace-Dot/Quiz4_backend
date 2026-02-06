@@ -17,7 +17,7 @@ This repository contains both the Django backend and the frontend template.
 2. Install dependencies
 
 ```
-pip install django djangorestframework djangorestframework-simplejwt
+pip install -r requirements.txt
 ```
 
 3. Run migrations
